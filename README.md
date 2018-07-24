@@ -1,5 +1,5 @@
-# project_linked_lists
-Ruby custom LinkedList class, including method implementations
+# linked_lists
+Ruby module containing custom LinkedList class, including method implementations and a secondary class Node.
 
 ## Overview
 This project follows the Ruby portion of The Odin Project series.  It implements a custom version of class LinkedList (singly linked list), and includes the following methods:
